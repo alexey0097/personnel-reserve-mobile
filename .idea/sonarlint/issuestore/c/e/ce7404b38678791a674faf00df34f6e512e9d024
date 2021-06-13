@@ -1,0 +1,25 @@
+
+O
+java:S1199D"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8šÀÙß‹/
+O
+java:S1199A"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8¨ıßß‹/
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8»†´Ÿ/
+Z
+java:S1874f"=Remove this use of "setBackgroundDrawable"; it is deprecated.(í´êû8½ÍÏ³Ÿ/
+y
+java:S1488t"\Immediately return this expression instead of assigning it to the temporary variable "root".(šÖş‘8½ÍÏ³Ÿ/
+O
+java:S1199>"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8¡áßß‹/
+N
+java:S1602U",Remove useless curly braces around statement(öó‰æøÿÿÿÿ8½ÍÏ³Ÿ/
+R
+java:S1874b"6Remove this use of "BitmapDrawable"; it is deprecated.(µëÅ:8½ÍÏ³Ÿ/
+R
+java:S1066"/Merge this if statement with the enclosing one.(´’Ö«úÿÿÿÿ8½ÍÏ³Ÿ/
+[
+java:S1172x"9Remove this unused method parameter "savedInstanceState".(±·Èåùÿÿÿÿ8¤öÏ³Ÿ/
+[
+java:S1172J"9Remove this unused method parameter "savedInstanceState".(Æõß½ùÿÿÿÿ8½ÍÏ³Ÿ/
+V
+java:S1172s"9Remove this unused method parameter "savedInstanceState".(×áüÚ8½ÍÏ³Ÿ/

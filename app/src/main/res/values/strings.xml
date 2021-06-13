@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">personnel-reserve-mobile</string>
+    <string name="tab_text_1">Резюме</string>
+    <string name="tab_text_2">Расчет НДФЛ</string>
+    <string name="activity_resume_create">Создание резюме</string>
+    <string name="activity_resume_edit">Редактирование резюме</string>
+    <string name="activity_resume_view">Просмотр резюме</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_refresh">Обновить</string>
+    <string name="btn_edit">Редактировать</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_cont">Рассчитать</string>
+    <string name="resume_first_name">Имя</string>
+    <string name="resume_last_name">Фамилия</string>
+    <string name="resume_middle_name">Отчество</string>
+    <string name="resume_profession">Профессия</string>
+    <string name="resume_about_me">Обо мне</string>
+    <string name="count_salary">Размер заработной платы</string>
+</resources>

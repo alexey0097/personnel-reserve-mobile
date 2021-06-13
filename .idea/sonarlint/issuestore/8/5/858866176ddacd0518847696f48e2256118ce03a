@@ -1,0 +1,15 @@
+
+F
+java:S4738V"$Use "java.util.Optional.of" instead.(™‡Ÿˆûÿÿÿÿ8¢•¦/
+u
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÄûûÿÿÿÿ8ÀßÊç‹/
+F
+java:S4738K"$Use "java.util.Optional.of" instead.(™‡Ÿˆûÿÿÿÿ8¢•¦/
+I
+java:S47383",Use "java.util.Optional.ofNullable" instead.(í¦ˆÑ8¢•¦/
+b
+java:S2259]"@A "NullPointerException" could be thrown; "id" is nullable here.(–‚È­úÿÿÿÿ8¢•¦/
+]
+java:S2259."@A "NullPointerException" could be thrown; "id" is nullable here.(‹ù“°8ê”Ëç‹/
+u
+java:S2259G"X"NullPointerException" will be thrown when invoking method "mapResumeToContentValues()".(«“¡8¢•¦/

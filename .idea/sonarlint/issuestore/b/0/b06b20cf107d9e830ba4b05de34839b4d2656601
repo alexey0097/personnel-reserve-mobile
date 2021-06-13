@@ -1,0 +1,12 @@
+
+€
+java:S1128"cRemove this unused import 'ru.iworking.personnel.reserve.mobile.util.IntentProperties.RESUME_VIEW'.(ÈÿƒØ8Ùâ²–“/
+N
+java:S1874g"1Remove this use of "getBitmap"; it is deprecated.(‡ÿÃÒ8È×›±Ÿ/
+]	java:S110 "<This class has 9 parents which is greater than 5 authorized.(±ç½ûÿÿÿÿ8å¥Ï•“/
+O
+java:S1874S"3Remove this use of "getDrawable"; it is deprecated.(ÿŠû8Ñ¨‘²Ÿ/
+H
+java:S4738-",Use "java.util.Optional.ofNullable" instead.(’£©=8å¥Ï•“/
+=
+java:S4738-"!Use "java.util.Optional" instead.(’£©=8å¥Ï•“/

@@ -1,0 +1,12 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(©Å‹­
+]
+java:S1128";Remove this unused import 'com.google.common.base.Strings'.(¬êÅ¡øÿÿÿÿ8¼É±–“/
+D
+java:S4738"'Use "java.util.Optional.empty" instead.(Š¦€©8ãª/
+>
+java:S4738"!Use "java.util.Optional" instead.(Š¦€©8“Çâª/
+P
+java:S1128"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8Ç¯Ø°Ÿ/
+N
+java:S4738'",Use "java.util.Optional.ofNullable" instead.(ó¬‡óüÿÿÿÿ8¼†æª/
